@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prayer Time</string>
+    <string name="silence">Silence</string>
+    <string name="repentance">Repentance</string>
+    <string name="requests">Requests</string>
+    <string name="gratitude">Gratitude</string>
+</resources>
